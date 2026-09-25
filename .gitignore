@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (don't commit large datasets)
+data/
+*.csv
+*.parquet
+*.json
+!config.json
+
+# Model artifacts / checkpoints
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+wandb/
+runs/
+
+# OS / editor junk
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Environment variables / secrets
+.env
