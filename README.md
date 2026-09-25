@@ -1,20 +1,20 @@
-\# Amazon ML Challenge 2026 — Revenents
+# Amazon ML Challenge 2026 — Revenents
 
 
 
-\## Structure
+## Structure
 
-\- notebooks/ — exploratory analysis, Colab/Jupyter notebooks
+- notebooks/ — exploratory analysis, Colab/Jupyter notebooks
 
-\- src/ — reusable training/inference scripts
+- src/ — reusable training/inference scripts
 
-\- submissions/ — final approach doc + submission files
+- submissions/ — final approach doc + submission files
 
-\- data/ — local dataset (gitignored, not pushed)
+- data/ — local dataset (gitignored, not pushed)
 
 
 
-\## Team
+## Team
 
-\- Teja, Srihari, Srikar
+- Teja, Srihari, Srikar
 
