@@ -1,0 +1,29 @@
+# Challenge datasets
+dataset/
+
+# macOS files
+.DS_Store
+__MACOSX/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data / outputs
+*.tsv
+*.csv
+*.parquet
+*.pkl
+*.pickle
+
+# Secrets
+.env
+*.key
